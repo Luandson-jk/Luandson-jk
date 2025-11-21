@@ -2,9 +2,12 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Olá,+Dev!;Bem-vindo+ao+meu+perfil;Codando+o+futuro..." alt="Typing SVG" />
 
-  ### 👋 Sobre Mim
-  
-  Eu sou um desenvolvedor apaixonado por tecnologia e inovação.
+### 👨‍💻 Sobre Mim
+Olá! Sou um desenvolvedor focado em criar soluções eficientes e escaláveis. 
+Tenho experiência com desenvolvimento Full Stack e adoro resolver problemas complexos.
+
+* 💼 **Objetivo:** Buscando oportunidades para colaborar em projetos Open Source e crescer profissionalmente.
+* 🛠️ **Stack Principal:** [Golang], [Python], [JavaScript].
   
   ---
 
