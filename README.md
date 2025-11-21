@@ -33,7 +33,7 @@
 
   ### 📫 Onde me encontrar:
   
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/luandson-ara%C3%BAjo-andrade-931850250/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:araujoluandson1@gmail.com">
