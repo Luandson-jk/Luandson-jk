@@ -7,7 +7,7 @@ Olá! Sou um desenvolvedor focado em criar soluções eficientes e escaláveis.
 Tenho experiência com desenvolvimento Full Stack e adoro resolver problemas complexos.
 
 * 💼 **Objetivo:** Buscando oportunidades para colaborar em projetos Open Source e crescer profissionalmente.
-* 🛠️ **Stack Principal:** [Golang], [Python], [JavaScript].
+* 🛠️ **Stack Principal:** [Golang], [Python], [JavaScript], [React], [TypeScript].
   
   ---
 
