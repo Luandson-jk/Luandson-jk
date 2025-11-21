@@ -28,9 +28,7 @@ Tenho experiência com desenvolvimento Full Stack e adoro resolver problemas com
     </a>
   </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
+
 
   ---
 
