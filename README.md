@@ -29,7 +29,7 @@ Tenho experiência com desenvolvimento Full Stack e adoro resolver problemas com
   </div>
 
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?Luandson-jk&theme=cyberpunk" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Luandson-jk&theme=shadow-red&hide_border=true&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
   </div>
 
   ---
